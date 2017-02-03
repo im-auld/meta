@@ -1,7 +1,9 @@
 '''
 Created on Nov 4, 2011
+Added to public repo on Feb 2, 2014
 
 @author: sean
+@author: ian
 '''
 import sys
 
